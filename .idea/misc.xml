@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/james/Desktop/everrything/uni stuff/semester 2/application programing/resub assignment test/resubmission-assignment-JMST1-main/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1485" />
+        <entry key="..\:/Users/james/Desktop/everrything/uni stuff/semester 2/application programing/resub assignment test/resubmission-assignment-JMST1-main/app/src/main/res/drawable/die_selection_frame.xml" value="0.1" />
+        <entry key="..\:/Users/james/Desktop/everrything/uni stuff/semester 2/application programing/resub assignment test/resubmission-assignment-JMST1-main/app/src/main/res/drawable/ic_die1.xml" value="0.194" />
+        <entry key="..\:/Users/james/Desktop/everrything/uni stuff/semester 2/application programing/resub assignment test/resubmission-assignment-JMST1-main/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/james/Desktop/everrything/uni stuff/semester 2/application programing/resub assignment test/resubmission-assignment-JMST1-main/app/src/main/res/drawable/ic_unknowndie.xml" value="0.1485" />
+        <entry key="..\:/Users/james/Desktop/everrything/uni stuff/semester 2/application programing/resub assignment test/resubmission-assignment-JMST1-main/app/src/main/res/layout/activity_display_message.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/james/Desktop/everrything/uni stuff/semester 2/application programing/resub assignment test/resubmission-assignment-JMST1-main/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3383152173913043" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

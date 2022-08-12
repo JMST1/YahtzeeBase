@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">YahtzeeBase</string>
+    <string name="totalFmt">Total: %d</string>
+    <string name="state_before_turn">Roll the dice to start the turn</string>
+    <string name="state_rolled_once">You have rolled once, select dice to keep</string>
+    <string name="state_rolled_twice">You have rolled twice, select dice to keep</string>
+    <string name="state_rolled_thrice">Select how to score your dice</string>
+    <string name="activity_title">Yahtzee: %s (%d)</string>
+    <string name="lbl_upper_group">Upper Group</string>
+    <string name="lbl_ones">Ones</string>
+    <string name="lbl_twos">Twos</string>
+    <string name="lbl_threes">Threes</string>
+    <string name="lbl_fours">Fours</string>
+    <string name="lbl_fives">Fives</string>
+    <string name="lbl_sixes">Sixes</string>
+    <string name="lbl_upper_subtotal">Subtotal</string>
+    <string name="lbl_upper_total">Upper Total</string>
+    <string name="lbl_lower_group">Lower Group</string>
+    <string name="lbl_three_of_a_kind">Three of a Kind</string>
+    <string name="lbl_four_of_a_kind">Four of a Kind</string>
+    <string name="lbl_full_house">Full House</string>
+    <string name="lbl_small_straight">Small Straight</string>
+    <string name="lbl_large_straight">Large Straight</string>
+    <string name="lbl_yahtzee">Yahtzee</string>
+    <string name="lbl_chance">Chance</string>
+    <string name="lbl_lower_total">Lower Total</string>
+    <string name="btn_roll_dice">Roll dice</string>
+    <string name="cd_unrolled">Unrolled</string>
+</resources>
